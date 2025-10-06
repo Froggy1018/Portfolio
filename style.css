@@ -80,6 +80,24 @@ a{
     color: #5D866C
 }
 
+#projectbox{
+    background-color: #C2A68C;
+    padding:10px;
+    margin-top: 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+
+    p{
+        font-size: 20px;
+        text-align: left;
+        padding-left: 30px;
+    }
+    a{
+        font-size: 20px;
+    };
+}
 
 
 /*color palette: https://colorhunt.co/palette/f5f5f0e6d8c3c2a68c5d866c */
