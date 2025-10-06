@@ -37,18 +37,14 @@ body{
 
 #boxedarea{
     background-color:#C2A68C;
-    padding: flex;
+    padding: 20px;
     margin-top: 10px;
-}
-
-#photo{
-    float: left;
-    padding-right: 30px
+    font-size: 20px;
+    border-radius: 25px;
 }
 
 #intro{
     font-size: 20px;
-    padding: 20px;
 }
 
 #bookshelf{
@@ -99,5 +95,12 @@ a{
     };
 }
 
+button{
+    background-color: #5D866C;
+    font-size: 20px;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px 20px;
+}
 
 /*color palette: https://colorhunt.co/palette/f5f5f0e6d8c3c2a68c5d866c */
