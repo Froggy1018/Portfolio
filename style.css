@@ -103,4 +103,17 @@ button{
     padding: 10px 20px;
 }
 
+button a{
+    color: #C2A68C;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover{
+    background-color: #C2A68C;
+}
+
+button:hover a{
+    color: #5D866C
+}
+
 /*color palette: https://colorhunt.co/palette/f5f5f0e6d8c3c2a68c5d866c */
